@@ -1,4 +1,4 @@
-# ed - Command Line Text Editor
+# ed
 
 **ed** is a simple command-line text editor inspired by traditional text editors. It allows you to open, modify, cut, copy, and select text, as well as scroll through documents in a terminal. Built using **ncurses**, it provides an interactive interface for text manipulation and navigation within files.
 
